@@ -11,8 +11,8 @@
   
 ## Documentos 
   
-  ![pdf](https://github.com/abelaira/analysis-cluster-with-pca/blob/master/image/pdf-v2.png) [Apresentação](https://github.com/abelaira/analysis-cluster-with-pca/blob/master/PCA-Analise-de-Clusters.pdf)  
+  ![pdf](https://github.com/abelaira/analysis-cluster-with-pca-covid19/blob/master/image/pdf-v2.png) [Apresentação](https://github.com/abelaira/analysis-cluster-with-pca-covid19/blob/master/PCA-Analise-de-Clusters.pdf)  
     
-  ![source](https://github.com/abelaira/analysis-cluster-with-pca/blob/master/image/rmarkdown-v2.png) [Código](https://github.com/abelaira/analysis-cluster-with-pca/blob/master/script/PCA-Analise-de-Clusters.Rmd)  
+  ![source](https://github.com/abelaira/analysis-cluster-with-pca-covid19/blob/master/image/rmarkdown-v2.png) [Código](https://github.com/abelaira/analysis-cluster-with-pca-covid19/blob/master/script/PCA-Analise-de-Clusters.Rmd)  
   
 
